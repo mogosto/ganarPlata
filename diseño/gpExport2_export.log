@@ -1,0 +1,35 @@
+Exporting package to 'C:\Documents and Settings\fernandob\Mis documentos\- descartables -\ganarPlata\gpExport2.xml'
+Retrieving data for export: packages
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+***** Processing package: Data Model *****
+Element:0: 8
+Element:1: 18
+Element:2: 15
+Element:3: 2
+Element:4: 5
+Element:5: 1
+Element:6: 16
+Element:7: 0
+Element:8: 13
+Element:9: 17
+Element:10: 10
+Element:11: 4
+Element:12: 12
+Element:13: 11
+Element:14: 3
+Element:15: 9
+Element:16: 14
+Element:17: 6
+Element:18: 7
+Diagram: Estados
+Formatting output XML...please wait
+XMI Document Export Complete!
